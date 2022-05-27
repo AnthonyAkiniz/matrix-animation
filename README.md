@@ -1,4 +1,4 @@
-# matrix-animation
+# Matrix Animation
 Matrix animation with javascript and HTML canvas
 
 | #  |       Project       | Live Demo |
