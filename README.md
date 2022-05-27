@@ -1,5 +1,5 @@
 # Matrix Animation
-Matrix animation with javascript and HTML canvas
+Matrix animation with Javascript and HTML canvas
 
 | #  |       Project       | Live Demo |
 |:--:|:--------------------|:---------:|
